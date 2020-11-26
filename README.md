@@ -1,6 +1,6 @@
 ### Hi there, I'm Sabin - aka [SaBing][website] 👋
 
-[![Website](https://img.shields.io/website?label=sabinthapa.contentder.com&style=for-the-badge&url=https%3A%2Fsabinthapa.contentder.com)](https://sabinthapa.contentder.com)
+[![Website](https://img.shields.io/website?label=sabinthapa.contentder.com&style=for-the-badge&url=https://sabinthapa.contentder.com)](https://sabinthapa.contentder.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThapaSabinem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsabint017&screen_name=ThapaSabinem)
 
 ## I'm a student, Developer, and a Learner!!
