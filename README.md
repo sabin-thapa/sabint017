@@ -49,7 +49,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sabin-thapa-7960b6180/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/sab_em.in.em//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/sab_em.in.em/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCFHwWZJvwtYvte2SbYv7ciw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
